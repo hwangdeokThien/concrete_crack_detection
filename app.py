@@ -33,5 +33,4 @@ if uploaded_file is not None:
             _, yhat = torch.max(z.data, 1)
 
         # Display the prediction result
-        st.write(f"Prediction: {
-                 'Crack Detected' if yhat.item() == 1 else 'No Crack Detected'}")
+        st.write(f"Prediction: {'Crack Detected' if yhat.item() == 1 else 'No Crack Detected'}")
