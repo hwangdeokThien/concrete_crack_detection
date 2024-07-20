@@ -2,6 +2,9 @@
 
 This project focuses on detecting cracks in concrete through collected images using the PyTorch library. It marks my first venture into using PyTorch, representing the culmination of my learning efforts with this powerful tool.
 
+![demo](https://github.com/user-attachments/assets/60e755dd-9453-4062-94a7-e945e062eaa9)
+
+
 The project encompasses several stages typical of an AI/DS project, including data preprocessing, model training, and evaluation. Additionally, a simple UI application is deployed to allow for easy testing of the model.
 
 ### Details
